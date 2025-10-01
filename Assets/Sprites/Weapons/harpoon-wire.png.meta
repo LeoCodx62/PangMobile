@@ -1,0 +1,1950 @@
+fileFormatVersion: 2
+guid: f2d8001470147c742b2f2439de3a16c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5420210019013441712
+    second: harpoon-wire_0
+  - first:
+      213: -544239708748886978
+    second: harpoon-wire_1
+  - first:
+      213: 2545520747185649357
+    second: harpoon-wire_2
+  - first:
+      213: 1573272742623857940
+    second: harpoon-wire_3
+  - first:
+      213: -4906153704817373295
+    second: harpoon-wire_4
+  - first:
+      213: 5289676530704077221
+    second: harpoon-wire_5
+  - first:
+      213: -3223800533348022533
+    second: harpoon-wire_6
+  - first:
+      213: 3982425209194302765
+    second: harpoon-wire_7
+  - first:
+      213: 9098078012676485529
+    second: harpoon-wire_8
+  - first:
+      213: 1051870119086221573
+    second: harpoon-wire_9
+  - first:
+      213: 952589163694732347
+    second: harpoon-wire_10
+  - first:
+      213: -1654029986434746124
+    second: harpoon-wire_11
+  - first:
+      213: -2856163522873494127
+    second: harpoon-wire_12
+  - first:
+      213: -7636140307213543834
+    second: harpoon-wire_13
+  - first:
+      213: -4108232027211924644
+    second: harpoon-wire_14
+  - first:
+      213: -6354440074490500007
+    second: harpoon-wire_15
+  - first:
+      213: -4467517521635527667
+    second: harpoon-wire_16
+  - first:
+      213: 2765555595579170531
+    second: harpoon-wire_17
+  - first:
+      213: -5148407479793053205
+    second: harpoon-wire_18
+  - first:
+      213: 4164267940631348766
+    second: harpoon-wire_19
+  - first:
+      213: 6283445122398025793
+    second: harpoon-wire_20
+  - first:
+      213: 4693587648826598491
+    second: harpoon-wire_21
+  - first:
+      213: 1746402500679652689
+    second: harpoon-wire_22
+  - first:
+      213: 3081190214963693967
+    second: harpoon-wire_23
+  - first:
+      213: 1540589075676607710
+    second: harpoon-wire_24
+  - first:
+      213: -1419169496802159432
+    second: harpoon-wire_25
+  - first:
+      213: 2681369319372274849
+    second: harpoon-wire_26
+  - first:
+      213: 7381670193364196951
+    second: harpoon-wire_27
+  - first:
+      213: 581209566582092748
+    second: harpoon-wire_28
+  - first:
+      213: -5716432614701681932
+    second: harpoon-wire_29
+  - first:
+      213: -7064863730905101997
+    second: harpoon-wire_30
+  - first:
+      213: -6757260309714960199
+    second: harpoon-wire_31
+  - first:
+      213: 5994039639656505062
+    second: harpoon-wire_32
+  - first:
+      213: 8546357597819893304
+    second: harpoon-wire_33
+  - first:
+      213: 7182299245977541584
+    second: harpoon-wire_34
+  - first:
+      213: 1517846168594926603
+    second: harpoon-wire_35
+  - first:
+      213: 596454341558106079
+    second: harpoon-wire_36
+  - first:
+      213: -1224046250708131817
+    second: harpoon-wire_37
+  - first:
+      213: -5994928205181557008
+    second: harpoon-wire_38
+  - first:
+      213: -5115683131677143854
+    second: harpoon-wire_39
+  - first:
+      213: 1275269442340314770
+    second: harpoon-wire_40
+  - first:
+      213: -3920833278584066276
+    second: harpoon-wire_41
+  - first:
+      213: -6216165899720405953
+    second: harpoon-wire_42
+  - first:
+      213: -4409701102977126806
+    second: harpoon-wire_43
+  - first:
+      213: -5758878136009744964
+    second: harpoon-wire_44
+  - first:
+      213: 2947406194787320410
+    second: harpoon-wire_45
+  - first:
+      213: -8317007847603108758
+    second: harpoon-wire_46
+  - first:
+      213: -2779500007581158844
+    second: harpoon-wire_47
+  - first:
+      213: 4506675554411935899
+    second: harpoon-wire_48
+  - first:
+      213: 2284328857682586548
+    second: harpoon-wire_49
+  - first:
+      213: -2485077725703116803
+    second: harpoon-wire_50
+  - first:
+      213: 5061692376166279247
+    second: harpoon-wire_51
+  - first:
+      213: -3433440493935500523
+    second: harpoon-wire_52
+  - first:
+      213: 414444877470945959
+    second: harpoon-wire_53
+  - first:
+      213: 3729550924165730001
+    second: harpoon-wire_54
+  - first:
+      213: 7329557893936371343
+    second: harpoon-wire_55
+  - first:
+      213: 6418529101181629602
+    second: harpoon-wire_56
+  - first:
+      213: 2055396854631501630
+    second: harpoon-wire_57
+  - first:
+      213: 4965027228217641737
+    second: harpoon-wire_58
+  - first:
+      213: 5617007422058217793
+    second: harpoon-wire_59
+  - first:
+      213: -3389197570365890600
+    second: harpoon-wire_60
+  - first:
+      213: -8904985201976288992
+    second: harpoon-wire_61
+  - first:
+      213: 2496597731779220065
+    second: harpoon-wire_62
+  - first:
+      213: -487225634192447613
+    second: harpoon-wire_63
+  - first:
+      213: -8999835531829608361
+    second: harpoon-wire_64
+  - first:
+      213: 4681354242892288001
+    second: harpoon-wire_65
+  - first:
+      213: -4748966827096304439
+    second: harpoon-wire_66
+  - first:
+      213: -5486661517191855641
+    second: harpoon-wire_67
+  - first:
+      213: 3708552773517819210
+    second: harpoon-wire_68
+  - first:
+      213: 7571277459196716590
+    second: harpoon-wire_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: harpoon-wire_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 340
+        width: 9
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b83f477b44783b40800000000000000
+      internalID: 5420210019013441712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 340
+        width: 9
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c4c5f4ed87278f0800000000000000
+      internalID: -544239708748886978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 340
+        width: 9
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6336002a1835320800000000000000
+      internalID: 2545520747185649357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 340
+        width: 9
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d46ee493365d510800000000000000
+      internalID: 1573272742623857940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 340
+        width: 9
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fc4ea0337d9ebb0800000000000000
+      internalID: -4906153704817373295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 340
+        width: 9
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1565d57c4b86940800000000000000
+      internalID: 5289676530704077221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 340
+        width: 9
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6831fce72c243d0800000000000000
+      internalID: -3223800533348022533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 340
+        width: 9
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d4692c0aa644730800000000000000
+      internalID: 3982425209194302765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 340
+        width: 9
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991bf54bfbdd24e70800000000000000
+      internalID: 9098078012676485529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 340
+        width: 9
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5096bfddc4ef89e00800000000000000
+      internalID: 1051870119086221573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 340
+        width: 9
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3439ee1cc6483d00800000000000000
+      internalID: 952589163694732347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 340
+        width: 9
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f876b2ad74bb09e0800000000000000
+      internalID: -1654029986434746124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 340
+        width: 9
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19572b6986edc58d0800000000000000
+      internalID: -2856163522873494127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 340
+        width: 9
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6669e7d39daf60690800000000000000
+      internalID: -7636140307213543834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 340
+        width: 9
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b7623dcb0acf6c0800000000000000
+      internalID: -4108232027211924644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 340
+        width: 9
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cac756b6e70d7a0800000000000000
+      internalID: -6354440074490500007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 340
+        width: 9
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04b417eb703002c0800000000000000
+      internalID: -4467517521635527667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 340
+        width: 9
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee1711692a316620800000000000000
+      internalID: 2765555595579170531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 340
+        width: 9
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be198ffacae2d88b0800000000000000
+      internalID: -5148407479793053205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 340
+        width: 9
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1601e6f0a37ac930800000000000000
+      internalID: 4164267940631348766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_20
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 340
+        width: 9
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148f1363c08433750800000000000000
+      internalID: 6283445122398025793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_21
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 340
+        width: 9
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5468725919f22140800000000000000
+      internalID: 4693587648826598491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 340
+        width: 9
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1555ddf42d77c3810800000000000000
+      internalID: 1746402500679652689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 197
+        width: 9
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f890258fc2692ca20800000000000000
+      internalID: 3081190214963693967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 197
+        width: 9
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed43d881a95416510800000000000000
+      internalID: 1540589075676607710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 197
+        width: 9
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4990b9cd81e4ce0800000000000000
+      internalID: -1419169496802159432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 197
+        width: 9
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acb0d08033263520800000000000000
+      internalID: 2681369319372274849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 197
+        width: 9
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75edf8c5ee5f07660800000000000000
+      internalID: 7381670193364196951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_28
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 197
+        width: 9
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc33f2c750fd01800800000000000000
+      internalID: 581209566582092748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 197
+        width: 9
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2bf3ae2d62ba0b0800000000000000
+      internalID: -5716432614701681932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 197
+        width: 9
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3594cd43edf84fd90800000000000000
+      internalID: -7064863730905101997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 197
+        width: 9
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b00890cc836932a0800000000000000
+      internalID: -6757260309714960199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 197
+        width: 9
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee16536b4b1f2350800000000000000
+      internalID: 5994039639656505062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 197
+        width: 9
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836f38564f2ca9670800000000000000
+      internalID: 8546357597819893304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 197
+        width: 9
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db1c0b5c17aca360800000000000000
+      internalID: 7182299245977541584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_35
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 197
+        width: 9
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cc9c66c09701510800000000000000
+      internalID: 1517846168594926603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 197
+        width: 9
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd77f414018074800800000000000000
+      internalID: 596454341558106079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_37
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 197
+        width: 9
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710a4e59b60530fe0800000000000000
+      internalID: -1224046250708131817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_38
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 197
+        width: 9
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6ee245f8cbdcca0800000000000000
+      internalID: -5994928205181557008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 197
+        width: 9
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc0de8bb417109b0800000000000000
+      internalID: -5115683131677143854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_40
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 197
+        width: 9
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29eda971dcaa2b110800000000000000
+      internalID: 1275269442340314770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_41
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 197
+        width: 9
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f677618e66699c0800000000000000
+      internalID: -3920833278584066276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 197
+        width: 9
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cc4428c0ebbb9a0800000000000000
+      internalID: -6216165899720405953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 197
+        width: 9
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e666fd5389dc2c0800000000000000
+      internalID: -4409701102977126806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_44
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 197
+        width: 9
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd106ed8da5410b0800000000000000
+      internalID: -5758878136009744964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_45
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 197
+        width: 9
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a528511715a47e820800000000000000
+      internalID: 2947406194787320410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 9
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a640b719d6d049c80800000000000000
+      internalID: -8317007847603108758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_47
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 9
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442fde2387b3d69d0800000000000000
+      internalID: -2779500007581158844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 9
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98f8a21a8dea8e30800000000000000
+      internalID: 4506675554411935899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 9
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb28504ef093bf10800000000000000
+      internalID: 2284328857682586548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 9
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7ea3899fa338dd0800000000000000
+      internalID: -2485077725703116803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_51
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 9
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48a1bbe56ebe3640800000000000000
+      internalID: 5061692376166279247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_52
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 9
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5136889df08f950d0800000000000000
+      internalID: -3433440493935500523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 9
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2d2a49b6760c500800000000000000
+      internalID: 414444877470945959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 9
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dec0a63ec602c330800000000000000
+      internalID: 3729550924165730001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_55
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 9
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86dcb42212d7b560800000000000000
+      internalID: 7329557893936371343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_56
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 9
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a43070f532331950800000000000000
+      internalID: 6418529101181629602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 9
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f04c0ac8c368c10800000000000000
+      internalID: 2055396854631501630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_58
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 9
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b0e0e45f157e440800000000000000
+      internalID: 4965027228217641737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_59
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 9
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141438c7d7e93fd40800000000000000
+      internalID: 5617007422058217793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_60
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 9
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df59b834c627f0d0800000000000000
+      internalID: -3389197570365890600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_61
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 9
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029d712b3232b6480800000000000000
+      internalID: -8904985201976288992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_62
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 9
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1621fb5d862b5a220800000000000000
+      internalID: 2496597731779220065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 9
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387ae7cfdd60d39f0800000000000000
+      internalID: -487225634192447613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_64
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 9
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7508b5854492a1380800000000000000
+      internalID: -8999835531829608361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 9
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100dc5b81e287f040800000000000000
+      internalID: 4681354242892288001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_66
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 9
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c49fc4f4d7481eb0800000000000000
+      internalID: -4748966827096304439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_67
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 9
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e149f07b667bd3b0800000000000000
+      internalID: -5486661517191855641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_68
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 0
+        width: 9
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4db158491d677330800000000000000
+      internalID: 3708552773517819210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon-wire_69
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 9
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26a75b1cb4921960800000000000000
+      internalID: 7571277459196716590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 367025f5817f85447a429c1d18655ea0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      harpoon-wire_0: 5420210019013441712
+      harpoon-wire_1: -544239708748886978
+      harpoon-wire_10: 952589163694732347
+      harpoon-wire_11: -1654029986434746124
+      harpoon-wire_12: -2856163522873494127
+      harpoon-wire_13: -7636140307213543834
+      harpoon-wire_14: -4108232027211924644
+      harpoon-wire_15: -6354440074490500007
+      harpoon-wire_16: -4467517521635527667
+      harpoon-wire_17: 2765555595579170531
+      harpoon-wire_18: -5148407479793053205
+      harpoon-wire_19: 4164267940631348766
+      harpoon-wire_2: 2545520747185649357
+      harpoon-wire_20: 6283445122398025793
+      harpoon-wire_21: 4693587648826598491
+      harpoon-wire_22: 1746402500679652689
+      harpoon-wire_23: 3081190214963693967
+      harpoon-wire_24: 1540589075676607710
+      harpoon-wire_25: -1419169496802159432
+      harpoon-wire_26: 2681369319372274849
+      harpoon-wire_27: 7381670193364196951
+      harpoon-wire_28: 581209566582092748
+      harpoon-wire_29: -5716432614701681932
+      harpoon-wire_3: 1573272742623857940
+      harpoon-wire_30: -7064863730905101997
+      harpoon-wire_31: -6757260309714960199
+      harpoon-wire_32: 5994039639656505062
+      harpoon-wire_33: 8546357597819893304
+      harpoon-wire_34: 7182299245977541584
+      harpoon-wire_35: 1517846168594926603
+      harpoon-wire_36: 596454341558106079
+      harpoon-wire_37: -1224046250708131817
+      harpoon-wire_38: -5994928205181557008
+      harpoon-wire_39: -5115683131677143854
+      harpoon-wire_4: -4906153704817373295
+      harpoon-wire_40: 1275269442340314770
+      harpoon-wire_41: -3920833278584066276
+      harpoon-wire_42: -6216165899720405953
+      harpoon-wire_43: -4409701102977126806
+      harpoon-wire_44: -5758878136009744964
+      harpoon-wire_45: 2947406194787320410
+      harpoon-wire_46: -8317007847603108758
+      harpoon-wire_47: -2779500007581158844
+      harpoon-wire_48: 4506675554411935899
+      harpoon-wire_49: 2284328857682586548
+      harpoon-wire_5: 5289676530704077221
+      harpoon-wire_50: -2485077725703116803
+      harpoon-wire_51: 5061692376166279247
+      harpoon-wire_52: -3433440493935500523
+      harpoon-wire_53: 414444877470945959
+      harpoon-wire_54: 3729550924165730001
+      harpoon-wire_55: 7329557893936371343
+      harpoon-wire_56: 6418529101181629602
+      harpoon-wire_57: 2055396854631501630
+      harpoon-wire_58: 4965027228217641737
+      harpoon-wire_59: 5617007422058217793
+      harpoon-wire_6: -3223800533348022533
+      harpoon-wire_60: -3389197570365890600
+      harpoon-wire_61: -8904985201976288992
+      harpoon-wire_62: 2496597731779220065
+      harpoon-wire_63: -487225634192447613
+      harpoon-wire_64: -8999835531829608361
+      harpoon-wire_65: 4681354242892288001
+      harpoon-wire_66: -4748966827096304439
+      harpoon-wire_67: -5486661517191855641
+      harpoon-wire_68: 3708552773517819210
+      harpoon-wire_69: 7571277459196716590
+      harpoon-wire_7: 3982425209194302765
+      harpoon-wire_8: 9098078012676485529
+      harpoon-wire_9: 1051870119086221573
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
